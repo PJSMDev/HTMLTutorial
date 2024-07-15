@@ -67,15 +67,42 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\CSS03.css" />
     <Content Include="html\Atributes01.html" />
     <Content Include="html\Basic01.html" />
+    <Content Include="html\Colors01.html" />
+    <Content Include="html\Colors02.html" />
+    <Content Include="html\Colors03.html" />
+    <Content Include="html\Colors04.html" />
+    <Content Include="html\Comments01.html" />
+    <Content Include="html\CSS01.html" />
+    <Content Include="html\CSS02.html" />
+    <Content Include="html\CSS03.html" />
+    <Content Include="html\CSS04.html" />
+    <Content Include="html\CSS05.html" />
     <Content Include="html\Elements01.html" />
     <Content Include="html\Formatting01.html" />
     <Content Include="html\Headings01.html" />
     <Content Include="html\Home01.html" />
+    <Content Include="html\Images01.html" />
+    <Content Include="html\Images02.html" />
+    <Content Include="html\Images03.html" />
+    <Content Include="html\Images04.html" />
+    <Content Include="html\Links01.html" />
+    <Content Include="html\Links02.html" />
+    <Content Include="html\Links03.html" />
+    <Content Include="html\Links04.html" />
     <Content Include="html\Paragraphs01.html" />
+    <Content Include="html\Quotations01.html" />
     <Content Include="html\Styles01.html" />
+    <Content Include="media\blueDude01.gif" />
+    <Content Include="media\cellphone01.png" />
+    <Content Include="media\coffeehouse01.png" />
     <Content Include="media\Free01.png" />
+    <Content Include="media\fullDesktop01.png" />
+    <Content Include="media\itsaMeMario01.png" />
+    <Content Include="media\mac01.png" />
+    <Content Include="media\underConstruction01.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
