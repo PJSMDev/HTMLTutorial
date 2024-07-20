@@ -93,7 +93,10 @@
     <Content Include="html\Div04.html" />
     <Content Include="html\Div05.html" />
     <Content Include="html\Elements01.html" />
+    <Content Include="html\FilePaths01.html" />
     <Content Include="html\Formatting01.html" />
+    <Content Include="html\Head01.html" />
+    <Content Include="html\Head02.html" />
     <Content Include="html\Headings01.html" />
     <Content Include="html\Home01.html" />
     <Content Include="html\id01.html" />
@@ -116,6 +119,8 @@
     <Content Include="html\Links02.html" />
     <Content Include="html\Links03.html" />
     <Content Include="html\Links04.html" />
+    <Content Include="html\Head03.html" />
+    <Content Include="html\Head04.html" />
     <Content Include="html\Paragraphs01.html" />
     <Content Include="html\Quotations01.html" />
     <Content Include="html\Styles01.html" />
